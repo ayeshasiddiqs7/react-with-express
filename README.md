@@ -16,7 +16,10 @@ npm run client-install
 npm run dev
 ```
 
-Note: The final application runs on port 3000 and the backend server runs on port 5000.
+The final application runs on port 3000 and the backend server runs on port 5000.
+
+Once you are successfully able to run the application you will see something like this:
+![Application Screenshot ](client/public/appScreenshot.png)
 
 ## Encountered an issue ?
 
