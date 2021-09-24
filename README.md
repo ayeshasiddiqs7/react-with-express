@@ -33,7 +33,7 @@ When developing a similar project, if you are facing any issue of data not fetch
 
 ## Credit
 
-Gained this knowledge from [Brad Traversy](https://github.com/bradtraversy/react_express_starter).
+Thanks to [Brad Traversy](https://github.com/bradtraversy/react_express_starter) for giving insight into this realm of React.
 
 ## License
 
